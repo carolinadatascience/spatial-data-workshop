@@ -1,9 +1,13 @@
-<h1 align="center">Workshop Name</h1>
+<h1 align="center">Spatial Data with Python Workshop</h1>
 
-<p align="center"><b><i>Created by @<your_github_username_here!!> for Carolina Analytics and Data Science on [[DATE HERE]]</b></i></p>
+<p align="center"><b><i>Created by <a href="https://github.com/amitparikh1">Amit Parikh</a> for Carolina Analytics and Data Science on 3/1/2023</b></i></p>
 
  
-Here, please provide a **detailed**, *high quality* description of your workshop. Please include markdown formatting such as bold and italics to accentuate certain points. If you are unaware about how markdown formatting works, check out this [Markdown Cheat Sheet](https://www.markdownguide.org/cheat-sheet/).
+**Spatial Data** can be defined as any series of data that has an implicit or explicit association with a geographic location. Spatial data is all around us and is constantly being collected. 
+
+In this workshop we will go over some common examples of spatial datasets, data types that are specific to spatial data, how to best analyze spatial data in Python using GeoPandas, and explore ways we can visualize spatial data. 
+
+This workshop is meant to be **introductory** and is open to all skill levels. A basic understanding of Python and Pandas would be helpful, but not necessary. To familiarize yourself with Python and Pandas, check out our <a href="https://youtube.com/playlist?list=PLtOYSqZWWG7L1tUaEgUwtJP0d9xYHN7o1"> CADS intro YouTube series </a>. 
 
 ## Getting Started
 
