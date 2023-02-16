@@ -1,6 +1,6 @@
 <h1 align="center">Spatial Data with Python Workshop</h1>
 
-<p align="center"><b><i>Created by <a href="https://github.com/amitparikh1">Amit Parikh</a> for Carolina Analytics and Data Science on 3/1/2023</b></i></p>
+<p align="center"><b><i>Created by <a href="https://github.com/amitparikh1">Amit Parikh</a> for Carolina Analytics and Data Science on 3/1/2023</i></b></p>
 
  
 **Spatial Data** can be defined as any series of data that has an implicit or explicit association with a geographic location. Spatial data is all around us and is constantly being collected. 
