@@ -21,6 +21,7 @@ Here are some of the things you must do to get started with this workshop:
 - Navigate to the GitHub tab
 - Enter the URL of this repository into the workshop. https://github.com/carolinadatascience/spatial-data-workshop
 - Select and open the notebook to follow along
+- Note: if you'd like to run this locally, it's recommended to use Anaconda to manage your packages. Feel free to reach out to Amit for help with this.
 
 #### Packages
 - This workshop heavily uses the `geopandas` package for Python. To install this, create a new cell in your JupyterLab Notebook file and type the following command:
