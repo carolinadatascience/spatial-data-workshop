@@ -16,20 +16,21 @@ Here are some of the things you must do to get started with this workshop:
 ### Software Prerequisites
 
 #### Programming Interface
-##### Option 1 (Run Locally)
-- **This workshop uses the Python programming language.** If you do not already have Python installed on your computer, install the latest version for your operating system [here](https://www.python.org/downloads/).
 
-- This workshop will also use JupyterLab to run Jupyter Notebooks (with Python). Learn how to install JupyterLab [here](https://jupyter.org/install).
-##### Option 2 (Google CoLab - Beginner Friendly)
 - You can follow along in your browser by going to <a href="https://colab.research.google.com/">colab.research.google.com</a>. 
 - Navigate to the GitHub tab
 - Enter the URL of this repository into the workshop. https://github.com/carolinadatascience/spatial-data-workshop
 - Select and open the notebook to follow along
+- **Note:** if you'd like to run this locally, it's recommended to use Anaconda to manage your packages. Feel free to reach out to Amit for help with this.
 
 #### Packages
 - This workshop heavily uses the `geopandas` package for Python. To install this, create a new cell in your JupyterLab Notebook file and type the following command:
     ```bash
     !pip install geopandas
+    ```
+- We will also need mapclassify for our interactive plots
+    ```bash
+    !pip install mapclassify
     ```
 
     Running that cell in JupyterLab should install this package for you.
